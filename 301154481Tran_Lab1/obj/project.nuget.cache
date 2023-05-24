@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "UdYlH/j04euF4VhTrQ7GrsbRwtiN2S+MFuVAAhU8q/R+UhlEKDoZRxj8i1vvZZdXOle5G1PWDw1rCnGxkAmXlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevin\\source\\repos\\301154481Tran_Lab1\\301154481Tran_Lab1\\301154481Tran_Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevin\\.nuget\\packages\\awssdk.core\\3.7.106.36\\awssdk.core.3.7.106.36.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\awssdk.s3\\3.7.104.15\\awssdk.s3.3.7.104.15.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\kevin\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
